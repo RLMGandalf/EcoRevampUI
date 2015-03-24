@@ -1,0 +1,17 @@
+{
+    "enabled" : true,
+    "context" : "ui",
+    "identifier" : "EcoRevampUI",
+    "display_name" : "EcoRevamp Icons",
+    "description" : "icons for Test Mod for EcoRevamp",
+    "author" : "Gandalf",
+    "version" : "0.1",
+	"build": "79600",
+    "date": "2015/03/23",
+    "signature": "not yet implemented",
+    "category": [
+        "icons"
+    ],
+    "id": "a",
+    "priority": 500
+}
